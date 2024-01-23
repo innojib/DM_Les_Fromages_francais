@@ -1,10 +1,8 @@
 # DM_Les_Fromages_francais
-
-
 ##1.Quels sont les départements qui produisent du fromage avec du lait de chèvre?
-**
+
 ###a.Diagramme en barre
-    <iframe style="width: 80vw; height: 50vh; border: none;" src="https://public.opendatasoft.com/explore/embed/dataset/fromagescsv-fromagescsv/analyze/?disjunctive.fromage&sort=departement&refine.lait=Ch%C3%A8vre&location=6,46.90525,5.92163&basemap=jawg.light&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImZyb21hZ2VzY3N2LWZyb21hZ2VzY3N2Iiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5mcm9tYWdlIjp0cnVlLCJzb3J0IjoiZGVwYXJ0ZW1lbnQiLCJyZWZpbmUubGFpdCI6IkNoXHUwMEU4dnJlIiwibG9jYXRpb24iOiI2LDQ2LjkwNTI1LDUuOTIxNjMiLCJiYXNlbWFwIjoiamF3Zy5saWdodCJ9fSwiY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiYmFyIiwiZnVuYyI6IkNPVU5UIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzFCNjY5OCIsInBvc2l0aW9uIjoiY2VudGVyIn1dLCJ4QXhpcyI6ImRlcGFydGVtZW50IiwibWF4cG9pbnRzIjoxMDAsInNvcnQiOiJzZXJpZTEtMSIsInNlcmllc0JyZWFrZG93biI6IiIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiJ9XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="600" height="450" frameborder="0"></iframe>
+<iframe src="https://public.opendatasoft.com/chart/embed/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImZyb21hZ2VzY3N2LWZyb21hZ2VzY3N2Iiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5mcm9tYWdlIjp0cnVlLCJyZWZpbmUubGFpdCI6IkNoXHUwMEU4dnJlIn19LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJiYXIiLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMUI2Njk4In1dLCJ4QXhpcyI6ImRlcGFydGVtZW50IiwibWF4cG9pbnRzIjo1MCwic29ydCI6IiJ9XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
  > Source : [opendatasoft](https://public.opendatasoft.com/explore/)
 
  ###b.Carte de la production de fromage de chèvre
