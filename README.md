@@ -2,7 +2,7 @@
 ##1.Quels sont les départements qui produisent du fromage avec du lait de chèvre?
 
 ###a.Diagramme en barre
-<iframe src="https://public.opendatasoft.com/chart/embed/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImZyb21hZ2VzY3N2LWZyb21hZ2VzY3N2Iiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5mcm9tYWdlIjp0cnVlLCJyZWZpbmUubGFpdCI6IkNoXHUwMEU4dnJlIn19LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJiYXIiLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMUI2Njk4In1dLCJ4QXhpcyI6ImRlcGFydGVtZW50IiwibWF4cG9pbnRzIjo1MCwic29ydCI6IiJ9XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+<iframe src="https://public.opendatasoft.com/chart/embed/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImZyb21hZ2VzY3N2LWZyb21hZ2VzY3N2Iiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5mcm9tYWdlIjp0cnVlLCJyZWZpbmUubGFpdCI6IkNoXHUwMEU4dnJlIn19LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJiYXIiLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMUI2Njk4In1dLCJ4QXhpcyI6ImRlcGFydGVtZW50IiwibWF4cG9pbnRzIjo1MCwic29ydCI6IiJ9XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
  > Source : [opendatasoft](https://public.opendatasoft.com/explore/)
 
  ###b.Carte de la production de fromage de chèvre
